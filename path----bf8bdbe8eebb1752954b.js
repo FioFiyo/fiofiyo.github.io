@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{98:function(e,o){e.exports={data:{site:{siteMetadata:{title:"Fiorella Leon Gomez",description:"Web Developer",url:"fiofiyo.github.io",keywords:"full stack, portfolio, personal website"}}},layoutContext:{}}}});
-//# sourceMappingURL=path----bf8bdbe8eebb1752954b.js.map
